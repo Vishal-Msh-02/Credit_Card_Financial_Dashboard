@@ -55,6 +55,13 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
   - Week, Quarter, Gender, Card Type, Region
 
 
+##  Screen Shots
+![1](https://github.com/user-attachments/assets/08bfe010-e0be-4c5a-a345-f0183c2aa020)
+![2](https://github.com/user-attachments/assets/0bf4a576-86b4-4c82-9b36-4bcbc68f86ad)
+![3](https://github.com/user-attachments/assets/56e0cb6b-0658-463e-b6a7-cb594586c5b7)
+
+
+
 ## 📁 Files Included
 
 - `credit_card_dashboard.pbix` – Main Power BI report file
